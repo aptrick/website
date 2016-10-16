@@ -1,0 +1,41 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "d3": "^4.2.7",
+    "normalize.css": "^5.0.0"
+  },
+  "devDependencies": {
+    "gulp": "git://github.com/gulpjs/gulp.git#4.0",
+    "gulp-bower": "0.0.11",
+    "gulp-clean": "^0.3.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-environments": "^0.1.1",
+    "gulp-flatten": "^0.2.0",
+    "gulp-gae": "0.0.4",
+    "gulp-imagemin": "^2.4.0",
+    "gulp-minify-css": "^1.2.3",
+    "gulp-minify-html": "^1.0.5",
+    "gulp-sass": "^2.1.1",
+    "gulp-series": "^1.0.2",
+    "gulp-strip-debug": "^1.1.0",
+    "gulp-uglify": "^1.5.1",
+    "gulp-util": "^3.0.7",
+    "gulp-watch": "^4.3.5",
+    "merge-stream": "^1.0.0",
+    "gulp-include": "^2.3.1",
+    "gulp-nunjucks-render": "^2.0.0",
+    "gulp-data": "^1.2.1",
+    "path": "^0.12.7",
+    "gulp-server-livereload": "^1.9.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-html-prettify": "0.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
